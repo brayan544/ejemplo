@@ -7,3 +7,4 @@ C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.csproj.Generat
 C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
 C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.exe
 C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.pdb
+C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.Form1.resources
