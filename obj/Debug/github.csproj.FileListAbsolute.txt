@@ -1,0 +1,9 @@
+C:\Users\brayan.borja\source\repos\github\github\bin\Debug\github.exe.config
+C:\Users\brayan.borja\source\repos\github\github\bin\Debug\github.exe
+C:\Users\brayan.borja\source\repos\github\github\bin\Debug\github.pdb
+C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.csprojAssemblyReference.cache
+C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.Properties.Resources.resources
+C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.csproj.GenerateResource.cache
+C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
+C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.exe
+C:\Users\brayan.borja\source\repos\github\github\obj\Debug\github.pdb
